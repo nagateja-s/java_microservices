@@ -1,6 +1,8 @@
 Microservices
 
 **Monolith:
+
+
       1) All components are part of single unit.
        2) Everything is developed, deployes and scaled a single unit.
        3) Application must be written in single tech stack.
